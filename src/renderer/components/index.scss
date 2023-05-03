@@ -1,0 +1,23 @@
+.layout-wrapper {
+  background:#fff;
+  width: 100vw;
+  min-height: 100vh;
+  
+  display: flex;
+  
+  .layout-header{
+    background: #bfa;
+  }
+
+  .layout-sider-content{
+    flex: 1;
+  }
+
+  .layout-sider{
+    background: #fff;
+  }
+
+  .layout-footer{
+    background: #bfa;
+  }
+}
